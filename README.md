@@ -1,8 +1,8 @@
-# Blitz
+# Blitzlight
 
 **Cloudstream Extensions**
 
-Blitz adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
+Blitzlight adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
 
 ## Cara Menambahkan ke Cloudstream
 
@@ -10,7 +10,7 @@ Blitz adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
 2. Navigasikan ke **Settings → Extensions → Add Repository**.
 3. Masukkan URL berikut sebagai repositori: 
 ```http
-https://raw.githubusercontent.com/CUPANG74/Blitz/refs/heads/builds/plugins.json
+https://raw.githubusercontent.com/CUPANG74/Blitzlight/refs/heads/builds/repo.json
 ```
 4. Beri nama repositori sesuai keinginan (misalnya: `tompel`).
 5. Download repository.
@@ -19,13 +19,9 @@ https://raw.githubusercontent.com/CUPANG74/Blitz/refs/heads/builds/plugins.json
 ## Konten Provider
 
 Repositori ini mencakup beberapa provider populer film dan anime, di antaranya:
-- Anoboy
 - LayarKaca
-- Otakudesu
 - Pencurimovie
-- Samehadaku
-- Kuramanime
-- AnimeSail
+
 
 ## Disclaimer DMCA
 
