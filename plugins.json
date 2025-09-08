@@ -1,14 +1,37 @@
 [
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "jarFileSize": 110555,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
+        "fileSize": 25175,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98,Blitzlight,Peerless"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "KisskhProvider",
+        "jarUrl": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.jar",
+        "url": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
         "fileSize": 20451,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated, Phisher98"
+            "Blitzlight, Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -25,7 +48,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
         "jarFileSize": 48911,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
         "fileSize": 12656,
         "status": 1,
         "language": "id",
