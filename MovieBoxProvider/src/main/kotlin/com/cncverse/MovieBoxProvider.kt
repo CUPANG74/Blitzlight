@@ -15,7 +15,7 @@ import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 
 class MovieBoxProvider : MainAPI() {
-    override var mainUrl = "https://api.inmoviebox.com"
+    override var mainUrl = "https://api6.aoneroom.com"
     override var name = "MovieBox"
     override val hasMainPage = true
     override var lang = "ta"
