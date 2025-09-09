@@ -23,13 +23,11 @@ class Pusatfilm : MainAPI() {
 
     override val mainPage =
             mainPageOf(
+                    "trending/page/%d/" to "Trending",
                     "film-terbaru/page/%d/" to "Film Terbaru",
-                    "trending/page/%d/" to "Film Trending",
-                    "genre/action/page/%d/" to "Film Action",
                     "series-terbaru/page/%d/" to "Series Terbaru",
-                    "drama-korea/page/%d/" to "Drama Korea",
-                    "west-series/page/%d/" to "West Series",
-                    "drama-china/page/%d/" to "Drama China",
+                    "korea-series/page/%d/" to "Korea Series",
+                    "china-series/page/%d/" to "China Series",
             )
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
         val data = request.data.format(page)
