@@ -1,5 +1,25 @@
 [
     {
+        "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 97659,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz, Blitzlight"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "HDOProvider",
+        "description": "HDO provider",
+        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/HDOProviders.cs3",
+        "name": "HDOProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "jarFileSize": 110555,
         "apiVersion": 1,
@@ -21,8 +41,28 @@
         "jarUrl": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.jar",
         "url": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
+  },
+  {
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/L.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz, Blitzlight"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 33,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
+        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/KlikXXI.cs3",
+        "name": "KlikXXI"
     },
-   {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
@@ -83,29 +123,8 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
         "name": "Netflix CNC Verse"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
-        "fileSize": 18985,
-        "status": 1,
-        "language": "mx",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 1,
-        "internalName": "Pelisplushd",
-        "description": "Mexican Movies/Series/Anime Extension",
-        "url": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/Pelisplushd.cs3",
-        "name": "Pelisplushd"
-    },
-    {
+   },
+   {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
         "jarFileSize": 48911,
         "apiVersion": 1,
