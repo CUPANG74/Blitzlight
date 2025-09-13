@@ -102,7 +102,7 @@
         ],
         "version": 5,
         "internalName": "LayarKacaProvider",
-        "description": Butuh aktifkan VPN, misal proton vpn dan pilih Singapore
+        "description": "Butuh aktifkan VPN, misal proton vpn dan pilih Singapore",
         "jarUrl": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.jar",
         "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
