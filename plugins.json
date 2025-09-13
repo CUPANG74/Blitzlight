@@ -42,7 +42,7 @@
         "name": "HDOProvider"
     },
     {
-        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/K.png",
+        "iconUrl": "https://i.imgur.com/wotVlfW.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "status": 1,
@@ -122,6 +122,7 @@
         ],
         "version": 5,
         "internalName": "LayarKacaProvider",
+        "description": "use V P N as Proton V P N set to Spore",
         "jarUrl": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.jar",
         "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
@@ -167,7 +168,7 @@
         "name": "Netflix CNC Verse"
    },
    {
-        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/Q.png",
+        "iconUrl": "https://i.imgur.com/2SSdF1s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "status": 1,
