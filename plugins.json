@@ -48,7 +48,7 @@
         "status": 1,
         "language": "id",        
         "authors": [
-            "CodeSannz"
+            "CodeSannz, Blitzlight"
         ],
         "tvTypes": [
             "Movie Terbaru",
@@ -58,7 +58,7 @@
         "version": 3,
         "internalName": "KawanFilm",
         "description": "KawanFilm merupakan situs website tempat download dan nonton film Movie, TV series terbaru gratis streaming secara online.",
-        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/KawanFilmProvider.cs3",
+        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/KawanFilmProvider.cs3",
         "name": "KawanFilm"
     },
     {
