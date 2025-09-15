@@ -128,10 +128,10 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+		"iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
-        "fileSize": 43626,
+        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+        "fileSize": 44544,
         "status": 1,
         "language": "id",
         "authors": [
@@ -141,12 +141,12 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 9,
-        "internalName": "MovieBoxProvider",
-        "description": "Multi Language Movies and Series Provider",
-        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/MovieBoxProvider.cs3",
-        "name": "MovieBoxProvider"
-    },
+        "version": 2,
+        "internalName": "MovieBoxProviderIN",
+        "description": "Multi Language Movies and Series Provider (IN)",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
+        "name": "MovieBoxProviderIN"
+	},
     {
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
