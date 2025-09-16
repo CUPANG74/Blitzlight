@@ -168,6 +168,26 @@
         "name": "Netflix CNC Verse"
    },
    {
+        "iconUrl": "https://i.imgur.com/6hafd31.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20149,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Ngefilm",
+        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+	{
         "iconUrl": "https://i.imgur.com/2SSdF1s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
