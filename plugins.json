@@ -211,6 +211,26 @@
         "name": "Ngefilm"
     },
 	{
+        "iconUrl": "https://i.imgur.com/1tdNiVu.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 21183,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "OppadramaProvider",
+        "description": "use V P N as Proton V P N set to Japan",
+        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/OppadramaProvider.cs3",
+        "name": "OppadramaProvider"
+    },
+	{
         "iconUrl": "https://i.imgur.com/2SSdF1s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
