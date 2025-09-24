@@ -153,22 +153,24 @@
     {
 		"iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 44544,
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
+        "fileSize": 27239,
         "status": 1,
         "language": "id",
         "authors": [
             "NivinCNC, Blitzlight"
         ],
         "tvTypes": [
+            "TvSeries",
             "Movie",
-            "TvSeries"
+            "Anime",
+            "AsianDrama"
         ],
-        "version": 2,
-        "internalName": "MovieBoxProviderIN",
-        "description": "Multi Language Movies and Series Provider (IN)",
+        "version": 3,
+        "internalName": "Moviebox",
+        "description": "Multi Language Movies and Series Provider (INDONESIA)",
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
-        "name": "MovieBoxProviderIN"
+        "name": "Moviebox"
 	},
     {
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
