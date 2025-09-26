@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://i.imgur.com/NYHxETJ.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 18618,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blitzlight",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Dutamovie",
+        "description": "DutaMovie",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+	},
+	{
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
         "jarFileSize": 69782,
         "apiVersion": 1,
