@@ -25,7 +25,7 @@ class LayarKacaProvider : MainAPI() {
 
 
     override val mainPage = mainPageOf(
-        "$mainUrl/populer/page/" to "Film Terplopuler",
+        "$mainUrl/populer/page/" to "Film Terpopuler",
         "$mainUrl/rating/page/" to "Film Berdasarkan IMDb Rating",
         "$mainUrl/most-commented/page/" to "Film Dengan Komentar Terbanyak",
         "$seriesUrl/latest-series/page/" to "Series Terbaru",
