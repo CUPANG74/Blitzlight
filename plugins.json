@@ -216,23 +216,24 @@
     },
 	{
         "iconUrl": "https://i.imgur.com/1tdNiVu.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 21183,
+         "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 14420,
         "status": 1,
         "language": "id",
         "authors": [
-            "CodeSannz"
+            "Duro92"
         ],
         "tvTypes": [
             "AsianDrama",
+            "TvSeries",
             "Movie"
         ],
-        "version": 10,
-        "internalName": "OppadramaProvider",
+        "version": 3,
+        "internalName": "Oppadrama",
         "description": "use V P N as Proton V P N set to Japan",
-        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/OppadramaProvider.cs3",
-        "name": "OppadramaProvider"
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
+        "name": "Oppadrama"
     },
 	{
         "iconUrl": "https://i.imgur.com/2SSdF1s.png",
