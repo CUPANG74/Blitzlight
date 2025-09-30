@@ -147,7 +147,7 @@
         ],
         "version": 5,
         "internalName": "LayarKacaProvider",
-        "description": "use V P N as Proton V P N set to Spore",
+        "description": "Provider dengan Subtitle Indonesia Terbaik (source Phisher)",
         "jarUrl": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.jar",
         "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
@@ -231,7 +231,7 @@
         ],
         "version": 3,
         "internalName": "Oppadrama",
-        "description": "use V P N as Proton V P N set to Japan",
+        "description": "use V P N as Proton V P N set to Spore",
         "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
         "name": "Oppadrama"
     },
