@@ -215,27 +215,6 @@
         "name": "Ngefilm"
     },
 	{
-        "iconUrl": "https://i.imgur.com/1tdNiVu.png",
-         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
-        "fileSize": 14420,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Oppadrama",
-        "description": "use V P N as Proton V P N set to Spore",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
-        "name": "Oppadrama"
-    },
-	{
         "iconUrl": "https://i.imgur.com/2SSdF1s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
