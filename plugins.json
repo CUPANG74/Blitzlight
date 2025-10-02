@@ -65,10 +65,10 @@
     },
     {
         "iconUrl": "https://i.imgur.com/Pmy0Son.png",
-        "jarFileSize": 92650,
+        "jarFileSize": 94463,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
-        "fileSize": 23059,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 23545,
         "status": 1,
         "language": "id",
         "authors": [
@@ -80,10 +80,10 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "IdlixProvider",
-        "jarUrl": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/IdlixProvider.jar",
-        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/IdlixProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
         "name": "IdlixProvider"
     },
 	{
