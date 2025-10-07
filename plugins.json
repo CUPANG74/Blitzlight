@@ -110,7 +110,7 @@
         "iconUrl": "https://i.imgur.com/1iUazqh.png",
         "jarFileSize": 110555,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 25175,
         "status": 1,
         "language": "en",
@@ -125,8 +125,8 @@
         ],
         "version": 11,
         "internalName": "KisskhProvider",
-        "jarUrl": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.jar",
-        "url": "https://raw.githubusercontent.com/nemoe7/cs3-phisher-modded/builds/KisskhProvider.cs3",
+        "jarUrl": "https://github.com/phisher98/cloudstream-extensions-phisher/raw/refs/heads/builds/KisskhProvider.jar",
+        "url": "https://github.com/phisher98/cloudstream-extensions-phisher/raw/refs/heads/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
   },
   {
