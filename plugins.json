@@ -363,8 +363,8 @@
         ],
         "version": 7,
         "internalName": "Watch32",
+		"description": "Watch movies and series from Watch32",
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.jar",
-        "description": "Watch movies and series from Watch32",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
         "name": "Watch32"
     }
