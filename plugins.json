@@ -176,6 +176,27 @@
         "name": "LayarKacaProvider"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv11.melongmovies.com&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
+        "fileSize": 17623,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Melongmovie",
+        "description": "Melongmovie",
+        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Melongmovie.cs3",
+        "name": "Melongmovie"
+    },
+	{
 		"iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
