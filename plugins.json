@@ -1,26 +1,24 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dramadrip-icon.png",
-        "jarFileSize": 191759,
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/balad.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 45982,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20397,
         "status": 1,
-        "language": "en",
+        "language": "id",
         "authors": [
-            "Phisher98"
+            "CodeSannz"
         ],
         "tvTypes": [
-            "Movie",
+            "AsianDrama",
             "TvSeries",
-            "AsianDrama"
+            "Movie"
         ],
-        "version": 5,
-        "internalName": "DramaDrip",
-        "description": "K-Drama, Dramas Extension by ModFlix Team",
-		"jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DramaDrip.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DramaDrip.cs3",
-        "name": "DramaDrip"
+        "version": 33,
+        "internalName": "Baladfilm",
+        "description": "Include: Zonafilm",
+        "url": "https://gitlab.com/zinanprayogaaditama/GagaggqjjwkwiuwhwvtH7/-/raw/ZnmKYT/Ttty/GahjahagKMN/Xdfjhrv5vynn79/Baladfilm.cs3",
+        "name": "Baladfilm"        
     },
 	{
         "iconUrl": "https://i.imgur.com/TrFnKQ2.png",
