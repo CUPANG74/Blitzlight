@@ -280,6 +280,28 @@
         "name": "Nomat"
     },
 	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
+        "jarFileSize": 166211,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 35604,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "OneTouchTV",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OneTouchTV.jar",
+        "description": "Asian Dramas (Korea, China, Thailand and Japan)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OneTouchTV.cs3",
+        "name": "OneTouchTV"
+    },
+	{
         "iconUrl": "https://i.imgur.com/2SSdF1s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
