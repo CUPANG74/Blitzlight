@@ -151,6 +151,26 @@
         "name": "KisskhProvider"
   },
   {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://klikxxi.fit&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 33,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
+        "url": "https://gitlab.com/zinanprayogaaditama/GagaggqjjwkwiuwhwvtH7/-/raw/ZnmKYT/Ttty/GahjahagKMN/Xdfjhrv5vynn79/KlikXXIProvider.cs3",
+        "name": "KlikXXI"
+    },
+	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
