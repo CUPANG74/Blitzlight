@@ -21,6 +21,29 @@
         "name": "Baladfilm"        
     },
 	{
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dramadrip-icon.png",
+        "jarFileSize": 191811,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 47004,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 5,
+        "internalName": "DramaDrip",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DramaDrip.jar",
+        "description": "K-Drama,Dramas Extension by ModFlix Team",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DramaDrip.cs3",
+        "name": "DramaDrip"
+    },
+	{
         "iconUrl": "https://i.imgur.com/TrFnKQ2.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
@@ -473,5 +496,29 @@
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.jar",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
         "name": "Watch32"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 26891,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Yflix",
+        "description": "Movies & TV Series Etc",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Yflix.cs3",
+        "name": "Yflix"
     }
 ]
