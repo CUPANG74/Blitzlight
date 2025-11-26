@@ -1,5 +1,51 @@
 [
     {
+        "iconUrl": "https://i.imgur.com/7p53kDO.jpeg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/michat88/MichatAja",
+        "fileSize": 147577,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Adicinemax21",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 247,
+        "internalName": "Adicinemax21",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/michat88/MichatAja/builds/Adicinemax21.cs3",
+        "name": "Adicinemax21"
+    },
+	{
+        "iconUrl": "https://i.imgur.com/Sk0iBLs.jpeg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/michat88/MichatAja",
+        "fileSize": 153350,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "AdiDrakor",
+            "Trinity"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 247,
+        "internalName": "AdiDrakor",
+        "description": "#1 AdiManu extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/michat88/MichatAja/builds/AdiDrakor.cs3",
+        "name": "AdiDrakor"
+    },
+	{
         "iconUrl": "https://i.imgur.com/lLK8kdx.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
