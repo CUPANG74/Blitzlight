@@ -219,12 +219,12 @@
 	{
         "iconUrl": "https://i.imgur.com/6keXKuG.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/michat88/AdiManuLateri3",
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
         "fileSize": 147777,
         "status": 1,
         "language": "en",
         "authors": [
-            "AdiManuLateri3"
+            "Blitzlight"
         ],
         "tvTypes": [
             "TvSeries",
@@ -234,7 +234,7 @@
         "version": 1,
         "internalName": "Lateri3Play",
         "description": "Lateri3Play - Movie & TV Series",
-        "url": "https://github.com/michat88/AdiManuLateri3/raw/refs/heads/builds/Lateri3Play.cs3",
+        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Lateri3Play.cs3",
         "name": "Lateri3Play"
     },
 	{
