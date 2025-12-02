@@ -217,7 +217,7 @@
         "name": "KlikXXI"
     },
 	{
-        "iconUrl": "https://raw.githubusercontent.com/michat88/Zaneta/refs/heads/main/Icons/RepoIcon.png",
+        "iconUrl": "https://i.imgur.com/6keXKuG.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/michat88/AdiManuLateri3",
         "fileSize": 147777,
@@ -233,7 +233,7 @@
         ],
         "version": 1,
         "internalName": "Lateri3Play",
-        "description": "Lateri3Play - Movie & TV Provider",
+        "description": "Lateri3Play - Movie & TV Series",
         "url": "https://raw.githubusercontent.com/michat88/AdiManuLateri3/builds/Lateri3Play.cs3",
         "name": "Lateri3Play"
     },
