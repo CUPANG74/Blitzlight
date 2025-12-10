@@ -149,8 +149,8 @@
         ],
         "version": 2,
         "internalName": "IdlixProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/IdlixProvider.jar",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/IdlixProvider.cs3",
         "name": "IdlixProvider"
     },
 	{
