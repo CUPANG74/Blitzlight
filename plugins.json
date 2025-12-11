@@ -89,6 +89,21 @@
         "name": "Dutamovie"
 	},
 	{
+    "iconUrl": "https://tv22.sbob.lol/wp-content/uploads/2025/08/cropped-lk21-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/duro92/ExtCloud",
+    "fileSize": 22088,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "version": 1,
+    "internalName": "FilmKita21",
+    "description": "📺 Streaming Movie and TV Series",
+    "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Filmkita.cs3",
+    "name": "FilmKita21"
+    },
+	{
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
         "jarFileSize": 69782,
         "apiVersion": 1,
