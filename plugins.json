@@ -370,14 +370,14 @@
     "name": "MidasXXi"
     },
 	{
-		"iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
-        "fileSize": 27239,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 27710,
         "status": 1,
         "language": "id",
         "authors": [
-            "NivinCNC, Blitzlight"
+            "Hexated"
         ],
         "tvTypes": [
             "TvSeries",
@@ -385,13 +385,12 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 3,
-        "internalName": "Moviebox",
-        "description": "Multi Language Movies and Series Provider (INDONESIA)",
-        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Moviebox.cs3",
+        "version": 4,
+        "internalName": "Moviebox INDONESIA ExtCloud",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Moviebox.cs3",
         "name": "Moviebox"
-	},
-    {
+    },
+	{
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
