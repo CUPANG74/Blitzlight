@@ -370,6 +370,26 @@
     "name": "MidasXXi"
     },
 	{
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 40270,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "MovieBoxProvider",
+        "description": "MOVIEBOX dari Phisher98",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },
+	{
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
@@ -377,7 +397,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "ExtCloud"
         ],
         "tvTypes": [
             "TvSeries",
@@ -386,7 +406,7 @@
             "AsianDrama"
         ],
         "version": 4,
-        "internalName": "Moviebox INDONESIA ExtCloud",
+        "internalName": "MOVIEBOX INDONESIA dari ExtCloud",
         "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Moviebox.cs3",
         "name": "Moviebox"
     },
