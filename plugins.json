@@ -370,46 +370,6 @@
     "name": "MidasXXi"
     },
 	{
-        "iconUrl": "https://moviesboxapp.org/wp-content/uploads/2025/12/cropped-Movie-Box-App-Logo.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 40270,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "NivinCNC,Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "MovieBoxProvider",
-        "description": "MOVIEBOX dari Phisher98",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
-        "name": "MovieBoxProvider"
-    },
-	{
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 49004,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "NivinCNC"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "MovieBoxProviderIN",
-        "description": "MOVIEBOX dari CNCVerse (IN)",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
-        "name": "MovieBoxProviderIN"
-    },
-	{
         "iconUrl": "https://i.imgur.com/A60pa61.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
