@@ -370,7 +370,7 @@
     "name": "MidasXXi"
     },
 	{
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://moviesboxapp.org/wp-content/uploads/2025/12/cropped-Movie-Box-App-Logo.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 40270,
@@ -410,7 +410,7 @@
         "name": "MovieBoxProviderIN"
     },
 	{
-        "iconUrl": "https://moviebox.ph/favicon.ico",
+        "iconUrl": "https://i.imgur.com/A60pa61.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
         "fileSize": 27710,
@@ -426,9 +426,10 @@
             "AsianDrama"
         ],
         "version": 4,
-        "internalName": "MOVIEBOX INDONESIA dari ExtCloud",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Moviebox.cs3",
-        "name": "Moviebox"
+        "internalName": "MovieBoxProvider",
+		"description": "MOVIEBOX dari ExtCloud",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
     },
 	{
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
