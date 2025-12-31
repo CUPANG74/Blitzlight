@@ -1,6 +1,7 @@
 {
     "name": "Blitzlight Repo",
     "description": "Cloudstream Blitzlight Repo",
+    "iconUrl": "https://github.com/CUPANG74/Blitzlight/blob/builds/RepoIcon%20GodLight.png",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/CUPANG74/Blitzlight/refs/heads/builds/plugins.json"
