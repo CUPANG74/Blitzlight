@@ -474,6 +474,27 @@
         "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Nomat.cs3",
         "name": "Nomat"
     },
+	{        
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvnunadrama.store&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CUPANG74/Blitzlight",
+        "fileSize": 19489,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Nunadrama",
+		"description": "Nonton Drama dan Film Asia",
+        "url": "https://github.com/CUPANG74/Blitzlight/raw/refs/heads/builds/Nunadrama.cs3",
+        "name": "Nunadrama"                
+    },
 	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
         "jarFileSize": 166211,
